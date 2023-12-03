@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.addingStyle{
+    background-color: purple;
+    color: blue;
+    padding: 15px;
+    text-align: center;
+}
